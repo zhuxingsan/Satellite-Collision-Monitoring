@@ -70,9 +70,10 @@ This project is distributed as a portable executable. **No installation required
 
 ## 📸 Screenshots / 界面展示
 
+
 | Orbit Visualization (轨道可视化) | Collision Analysis (碰撞分析) |
 |:---:|:---:|
-| ![Orbit](https://via.placeholder.com/400x250.png?text=Please+Upload+Screenshot) | ![Analysis](https://via.placeholder.com/400x250.png?text=Please+Upload+Screenshot) |
+| <img src="./assets/demo1.gif" width="100%" alt="Orbit Visualization"> | <img src="./assets/demo2.gif" width="100%" alt="Collision Analysis"> |
 
 ---
 
