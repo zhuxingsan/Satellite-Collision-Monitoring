@@ -57,7 +57,7 @@ This project is distributed as a portable executable. **No installation required
 
 ### Step 2: Launch Server (启动服务)
 3.  Double-click `SatelliteSystem.exe`. A command line window (black box) will appear.
-    * 双击运行 `SatelliteSystem.exe`。此时会弹出一个黑色命令行窗口。
+    * 双击运行 `Satellite Collision Monitoring.exe`。此时会弹出一个黑色命令行窗口。
 4.  Wait until you see the message: `Running on http://127.0.0.1:8000`.
     * 等待窗口中显示 `Running on http://127.0.0.1:8000` 字样。
 
